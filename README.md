@@ -1,4 +1,4 @@
-# Maunium sticker picker
+# Ajo! tohle je prográmek na nálepky třeba ho časem aj upravím
 A fast and simple Matrix sticker picker widget. Tested on Element Web, Android & iOS.
 
 ## Discussion
